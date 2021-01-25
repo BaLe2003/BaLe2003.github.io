@@ -1,0 +1,14 @@
+Package: com.laxus.arenaofvalor
+Name: Arena of Valor Cheats
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Arena of Valor iGMM Cheats by Laxus for iOSGods.com!
+Maintainer: iOSGods.com
+Author: Laxus
+Section: Tweaks
+Homepage: https://iosgods.com
+Version: 1.35.1.12+iOSGods.com
+Installed-Size: 9856
+Filename: ./debs/Hackmapmua17byBaLe.deb
+Size: 2,419,086
+MD5sum: b1e5bc2b86386483f6985b60eb3722f5
