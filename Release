@@ -1,0 +1,8 @@
+Origin: Ba Le
+Label: LQBa
+Suite: stable
+Version: 1.35.1.12+iOSGods.com
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Repo BaLe
